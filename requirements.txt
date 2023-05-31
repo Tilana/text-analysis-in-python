@@ -3,3 +3,5 @@ seaborn
 spacy
 nltk
 wordcloud
+ipywidgets
+jupyter_contrib_nbextensions
