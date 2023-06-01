@@ -1,0 +1,8 @@
+pandas
+seaborn
+spacy
+nltk
+wordcloud
+ipywidgets
+jupyter_contrib_nbextensions
+rise==5.7.1
