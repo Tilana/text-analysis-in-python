@@ -1,0 +1,14 @@
+name: rise-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - rise
+  - pip
+  - pip:
+    - nbgitpuller
+    - pandas
+    - nltk
+    - seaborn
+    - spacy
+    - wordcloud
